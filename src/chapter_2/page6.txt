@@ -2,4 +2,4 @@
 YOU HAVE TO LEARN THEM BY EXPERIENCING THEM YOURSELF.”
 – SAKURA HARUNO
 
-java is cool
+editor: java is cool
